@@ -2,7 +2,7 @@
 
 -📚 Atualmente estou estudando Front-end
 
--🤠 Sobre mim: 
+-🤠 Sobre mim: Me chamo João, tenho 19 anos e estudo Ciências Matemáticas na UFRJ
 
 <a href="https://github.com/joaolukaos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolukaos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
