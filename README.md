@@ -1,6 +1,6 @@
 ### Oi, eu sou o João 🤠
 
--📚 Atualmente estou estudando Front-end
+-📚 Atualmente estou estudando para ser um desenvolvedor Full-Stack
 
 -🤠 Sobre mim: Me chamo João Pedro Luka, tenho 19 anos e estudo Ciências Matemáticas com enfase em análise de suporte à decisão na UFRJ
 
