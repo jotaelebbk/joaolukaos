@@ -1,6 +1,6 @@
 ### Oi, eu sou o João 🤠
 
--📚 Atualmente estou estudando para ser um desenvolvedor Full-Stack
+-📚 Atualmente estudando desenvolvimento Full-Stack com: HTML, CSS, Javascript, Bootstrap, Jquery, Node.js, SQL, MongoDB, React e outros.
 
 -🤠 Sobre mim: Tenho 19 anos e estudo Ciências Matemáticas com enfase em análise de suporte à decisão na UFRJ
 
