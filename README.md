@@ -1,8 +1,8 @@
 ### Oi, eu sou o João 🤠
 
--📚 Atualmente estudando desenvolvimento Full-Stack com: HTML, CSS, Javascript, Bootstrap, Jquery, Node.js, SQL, MongoDB, React e outros.
+-📚 Atualmente estou focando no estudo de Data Science.
 
--🤠 Sobre mim: Tenho 19 anos e estudo Ciências Matemáticas com enfase em análise de suporte à decisão na UFRJ
+-🤠 Sobre mim: Tenho 20 anos e curso Ciências Matemáticas na UFRJ (ênfase em análise de suporte à decisão)
 
 <a href="https://github.com/joaolukaos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolukaos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
