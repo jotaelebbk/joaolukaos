@@ -1,4 +1,4 @@
-### Hi, my name os João Luka and I live in Rio de Janeiro, Brazil 🤠
+### Hi, my name os João Luka and I live in Rio de Janeiro, Brazil 
 
 -📚 I'm a Full Stack Web developer and I'm studying to improve my programming skills
 
