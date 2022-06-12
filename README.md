@@ -1,8 +1,8 @@
-### Oi, eu sou o João 🤠
+### Hi, my name os João Luka and I live in Rio de Janeiro, Brazil 🤠
 
--📚 Atualmente estou focando no estudo de Data Science.
+-📚 I'm a Full Stack Web developer and I'm studying to improve my programming skills
 
--🤠 Sobre mim: Tenho 20 anos e curso Ciências Matemáticas na UFRJ (ênfase em análise de suporte à decisão)
+-🤠 About me: I'm 20 and I'm technologie student at UFRJ
 
 <a href="https://github.com/joaolukaos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolukaos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
