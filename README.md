@@ -1,6 +1,6 @@
 ### Hi, my name os João Luka and I live in Rio de Janeiro, Brazil 
 
--📚 I'm a Full Stack Web developer and I'm studying to improve my programming skills
+-📚 Nowadays I'm focused on Blockchain development study (projects soon)
 
 -🤠 About me: I'm 20 and I'm technologie student at UFRJ
 
