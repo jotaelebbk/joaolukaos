@@ -1,6 +1,6 @@
 ### Hi, my name os João Luka and I live in Rio de Janeiro, Brazil 
 
--📚 Nowadays I'm focused on Blockchain development study (projects soon)
+-📚 Today I study to improve my data science skills.
 
 -🤠 About me: I'm 20 and I'm technologie student at UFRJ
 
