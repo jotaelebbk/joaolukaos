@@ -1,5 +1,5 @@
 ### Hi, my name os João Luka and I live in Rio de Janeiro, Brazil. Welcome to my github page.
-## I'm 21 and since 2008 I'm bloowing up my computers, almost always for science!
+## I'm 21 and since 2008 I'm blowing up my computers, almost always for science!
 
 <a href="https://github.com/joaolukaos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolukaos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
